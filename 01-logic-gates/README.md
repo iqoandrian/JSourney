@@ -1,0 +1,1 @@
+Di modul ini , saya belajar tentang penanganan tipe data undefined, pembersihan input (trim/toUpperCase), dan penggunaan logic gates untuk alur program yang aman.
